@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">Podaj swoje imię</string>
+    <string name="toppings">Dodatki</string>
+    <string name="whiped_cream">Bita śmietana</string>
+    <string name="chocolate">Czekolada</string>
+    <string name="quantity">Ilość</string>
+    <string name="unit_price">Cena jednostkowa</string>
+    <string name="with_own_cup">Z własnym kubkiem</string>
+    <string name="order">Zamów</string>
+    <string name="order_summary">Podsumowanie zamówienia:</string>
+    <string name="with_whipped_cream">Z bitą śmietaną</string>
+    <string name="no_whipped_cream">Bez bitej śmietany</string>
+    <string name="with_chocolate">Z czekoladą</string>
+    <string name="no_chocolate">Bez czekolady</string>
+    <string name="has_own_cup">Ma własny kubek</string>
+    <string name="no_own_cup">Nie ma własnego kubka</string>
+    <string name="name">Imię i nazwisko</string>
+    <string name="totalled">Razem</string>
+    <string name="thanks">Dziękować!:)</string>
+    <string name="order_for">Zamównie dla</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whiped_cream">Whippped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit_price">Unit price</string>
+    <string name="with_own_cup">With own cup</string>
+    <string name="order">Place order</string>
+    <string name="order_summary">Order summary</string>
+    <string name="with_whipped_cream">With whipped cream</string>
+    <string name="no_whipped_cream">Without whipped cream</string>
+    <string name="with_chocolate">With chocolate</string>
+    <string name="no_chocolate">Without chocolate</string>
+    <string name="has_own_cup">Has own mug</string>
+    <string name="no_own_cup">Without own mug</string>
+    <string name="name">Name and surname</string>
+    <string name="totalled">Summ</string>
+    <string name="thanks">Thanks!:)</string>
+    <string name="order_for">Order for</string>
+</resources>

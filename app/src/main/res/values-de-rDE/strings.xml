@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">Wie heißt du?</string>
+    <string name="toppings">Garnierung</string>
+    <string name="whiped_cream">Schlagsahne</string>
+    <string name="chocolate">Schokolade</string>
+    <string name="quantity">Anzahl</string>
+    <string name="unit_price">Stückpreis</string>
+    <string name="with_own_cup">Mit eigenem Becher</string>
+    <string name="order">Bestellung polatzieren</string>
+    <string name="order_summary">Bestellübersicht</string>
+    <string name="with_whipped_cream">Mit Schlagsahne</string>
+    <string name="no_whipped_cream">Ohne Schlagsahne</string>
+    <string name="with_chocolate">Mit Schokolade</string>
+    <string name="no_chocolate">Ohne Schokolade</string>
+    <string name="has_own_cup">Hat eigenen Becher</string>
+    <string name="no_own_cup">Hat keinen eigenen Becher</string>
+    <string name="name">Vor- und Nachname</string>
+    <string name="totalled">Summe</string>
+    <string name="thanks">Danke!:)</string>
+    <string name="order_for">Bestellung für</string>
+</resources>
